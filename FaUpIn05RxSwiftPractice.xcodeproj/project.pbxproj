@@ -31,6 +31,7 @@
 		D85BAC002BF9099A005633C8 /* Observable.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Observable.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D865FDE32BFB8B18009C8E9D /* Traits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Traits.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D8A1A1EC2BFCDBB6003E2738 /* Subjects.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Subjects.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		D8A1A1ED2BFCF650003E2738 /* FilteringOperators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = FilteringOperators.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +66,10 @@
 		D85BABE02BF906B3005633C8 = {
 			isa = PBXGroup;
 			children = (
+				D85BAC002BF9099A005633C8 /* Observable.playground */,
+				D865FDE32BFB8B18009C8E9D /* Traits.playground */,
+				D8A1A1EC2BFCDBB6003E2738 /* Subjects.playground */,
+				D8A1A1ED2BFCF650003E2738 /* FilteringOperators.playground */,
 				D85BABEB2BF906B3005633C8 /* FaUpIn05RxSwiftPractice */,
 				D85BABEA2BF906B3005633C8 /* Products */,
 				1541BBE7DEFACE4FD13E2E83 /* Pods */,
@@ -90,9 +95,6 @@
 				D85BABF52BF906B6005633C8 /* Assets.xcassets */,
 				D85BABF72BF906B7005633C8 /* LaunchScreen.storyboard */,
 				D85BABFA2BF906B7005633C8 /* Info.plist */,
-				D85BAC002BF9099A005633C8 /* Observable.playground */,
-				D865FDE32BFB8B18009C8E9D /* Traits.playground */,
-				D8A1A1EC2BFCDBB6003E2738 /* Subjects.playground */,
 			);
 			path = FaUpIn05RxSwiftPractice;
 			sourceTree = "<group>";
