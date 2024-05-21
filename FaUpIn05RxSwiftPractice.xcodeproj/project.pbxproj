@@ -30,6 +30,7 @@
 		D85BABFA2BF906B7005633C8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D85BAC002BF9099A005633C8 /* Observable.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Observable.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D865FDE32BFB8B18009C8E9D /* Traits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Traits.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		D8A1A1EC2BFCDBB6003E2738 /* Subjects.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Subjects.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +92,7 @@
 				D85BABFA2BF906B7005633C8 /* Info.plist */,
 				D85BAC002BF9099A005633C8 /* Observable.playground */,
 				D865FDE32BFB8B18009C8E9D /* Traits.playground */,
+				D8A1A1EC2BFCDBB6003E2738 /* Subjects.playground */,
 			);
 			path = FaUpIn05RxSwiftPractice;
 			sourceTree = "<group>";
