@@ -20,6 +20,7 @@
 		0B128359E12F425067B94A0B /* Pods-FaUpIn05RxSwiftPractice.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FaUpIn05RxSwiftPractice.debug.xcconfig"; path = "Target Support Files/Pods-FaUpIn05RxSwiftPractice/Pods-FaUpIn05RxSwiftPractice.debug.xcconfig"; sourceTree = "<group>"; };
 		3FDE7E7C1ABDCC8A610AD864 /* Pods-FaUpIn05RxSwiftPractice.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FaUpIn05RxSwiftPractice.release.xcconfig"; path = "Target Support Files/Pods-FaUpIn05RxSwiftPractice/Pods-FaUpIn05RxSwiftPractice.release.xcconfig"; sourceTree = "<group>"; };
 		85A1E66D8C334028D6D07AE4 /* Pods_FaUpIn05RxSwiftPractice.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FaUpIn05RxSwiftPractice.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D836C2592BFF6D9300FCBE2D /* TransformingOperators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TransformingOperators.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D85BABE92BF906B3005633C8 /* FaUpIn05RxSwiftPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FaUpIn05RxSwiftPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D85BABEC2BF906B3005633C8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D85BABEE2BF906B3005633C8 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -70,6 +71,7 @@
 				D865FDE32BFB8B18009C8E9D /* Traits.playground */,
 				D8A1A1EC2BFCDBB6003E2738 /* Subjects.playground */,
 				D8A1A1ED2BFCF650003E2738 /* FilteringOperators.playground */,
+				D836C2592BFF6D9300FCBE2D /* TransformingOperators.playground */,
 				D85BABEB2BF906B3005633C8 /* FaUpIn05RxSwiftPractice */,
 				D85BABEA2BF906B3005633C8 /* Products */,
 				1541BBE7DEFACE4FD13E2E83 /* Pods */,
